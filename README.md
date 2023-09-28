@@ -6,7 +6,9 @@ Projeto para o aprendizado da Herança de Classes em Python Orientado a Objeto
 # Historia
 
 **Cenário:** O reino enfrenta uma terrível praga que ameaça a todos. A única esperança é uma poção mágica escondida nas profundezas da masmorra( Netherdeep ).
+
 **Objetivo:** Escolher entre o mago e o bárbaro, explorar a masmorra em busca da poção e enfrentar monstros para salvar o reino.
+
 **Início:**
 O reino está à beira da destruição. O Conselho dos Sábios revela que uma poção mágica pode curar a praga, mas está escondida em uma masmorra perigosa.
 
